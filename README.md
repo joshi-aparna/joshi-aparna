@@ -1,45 +1,15 @@
 # Hi, I'm Aparna 👋
 
-I'm a Senior Software Engineer at Microsoft, working on cloud infrastructure and distributed systems.
+I'm a software engineer who likes understanding how things work by building them.
 
-Lately, I've been building small AI systems to understand how agents work under the hood — from getting reliable structured outputs from local LLMs to experimenting with semantic caching, agent memory, and tool integrations.
+This GitHub is where I experiment with ideas, build small systems, and document what I learn along the way.
 
-I learn by building, testing assumptions, and documenting what I find.
+Recently, I've been exploring:
 
-## What I'm working on
+- **AI agents and local LLMs** — building personal tools and understanding how agents interact with models and external systems.
+- **Evaluation and experimentation** — testing assumptions, measuring results, and learning from experiments that don't improve things.
+- **Systems and architecture** — making deliberate choices about simplicity, security, and reliability.
 
-### 🤖 AI agents and local LLMs
-- Building a personal shopping-list agent using Python, Ollama, Telegram, and Notion.
-- Exploring reliable structured outputs, tool calling, and evaluation strategies for local LLMs.
-- Experimenting with agent memory architectures and MCP integrations.
+I write about some of these experiments on my [blog](https://joshi-aparna.github.io/blog/).
 
-### ☁️ Cloud infrastructure
-- Working with distributed systems, Kubernetes, and cloud infrastructure.
-- Interested in system design, reliability, and the engineering decisions behind complex systems.
-
-### 🧪 Experiments and technical writing
-- Testing ideas through small, reproducible experiments.
-- Sharing what works, what doesn't, and what I learn along the way.
-
-## Selected work
-
-- **[Technical Blog](https://joshi-aparna.github.io/blog/)** — Notes and experiments on AI systems, infrastructure, and learning through building.
-- **[Shopping Agent](https://github.com/joshi-aparna/shopping-list-agent)** — Building a local AI agent that turns natural-language messages into a structured shopping list.
-
-
-## Technologies I work with
-
-**Infrastructure:** Kubernetes, Azure, distributed systems
-
-**AI engineering:** Python, Ollama, local LLMs, agent architectures, evaluation
-
-**Tools and integrations:** MCP, Telegram, Notion
-
-## Find me elsewhere
-
-- [Blog](https://joshi-aparna.github.io/blog/)
-- [LinkedIn](https://www.linkedin.com/)
-
----
-
-*Curious by default. Experimental by design.*
+Not everything here is a finished project. Some repositories are experiments, some are tools I use, and some are explorations of an idea I wanted to understand better.
